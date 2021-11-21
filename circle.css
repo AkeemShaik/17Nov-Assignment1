@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #E3516E;
+}
+
+.circle{
+    width: 0px;
+    height:0px;
+    border: 150px;
+    border-radius: 50%;
+    border-color: black;
+    border-style: solid;
+    border-bottom-color: #FADE8B;
+    border-right-color: transparent;
+    border-top-color: #51B5A9;
+    border-left-color: #F7F3D7;
+    margin-left: 40%;
+    margin-top: 10%;
+    transform: rotate(45deg);
+}   
